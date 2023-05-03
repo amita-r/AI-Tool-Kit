@@ -1,0 +1,8 @@
+To install following packages, use "Anaconda Prompt":
+
+pip install plotly
+conda install -c anaconda py-xgboost
+pip install autoviz
+conda install -c conda-forge/label/cf202003 pandas-profiling
+pip install datasist
+pip install wordcloud
